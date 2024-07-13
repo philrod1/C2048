@@ -81,12 +81,14 @@ The following files are required and should be placed in the appropriate directo
 ├── cert.pem
 ├── privkey.pem
 ├── lib
-│ └── libWebApi.so
+│   └── libWebApi.so
 ├── data
-│ └── eval-function.bin.special
+│   └── eval-function.bin.special
 ├── c2048.c
 ├── Makefile
+├── LICENSE
 └── README.md
+
 
 ### Logs
 
