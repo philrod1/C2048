@@ -75,20 +75,6 @@ The following files are required and should be placed in the appropriate directo
 - `lib/libWebApi.so`: Shared library for the AI logic
 - `data/eval-function.bin.special`: Binary file required by the AI logic
 
-### Directory Structure
-
-.
-├── cert.pem
-├── privkey.pem
-├── lib
-│   └── libWebApi.so
-├── data
-│   └── eval-function.bin.special
-├── c2048.c
-├── Makefile
-├── LICENSE
-└── README.md
-
 
 ### Logs
 
